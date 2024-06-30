@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>common-util</module>
+        <module>common-web</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
